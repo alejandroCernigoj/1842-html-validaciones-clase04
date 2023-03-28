@@ -1,1 +1,1 @@
-registro_producto.html
+registro.html
